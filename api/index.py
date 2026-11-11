@@ -175,3 +175,4 @@ def _run_scan_worker(resolved: ResolvedTarget, ports: List[int], threads: int, t
             STATE.is_running = False
             STATE.end_time = time.time()
             STATE.completed_ports = STATE.total_ports
+
