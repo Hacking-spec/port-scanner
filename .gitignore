@@ -9,6 +9,8 @@ __pycache__/
 *.csv
 *.html
 !README.md
+!requirements.txt
+!vercel.json
 
 # Environments
 .env
